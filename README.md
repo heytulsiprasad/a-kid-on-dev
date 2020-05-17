@@ -21,25 +21,22 @@ There's pretty much nothing, that we can't **learn** or **build** from scratch t
 There's a plenty of great ways to start your coding journey, especially due to the presence of lots of amazing developers out there who spend their valuable times in life by helping out budding developers and I can't express my gratitude for them in just words. I choose the platform [Twitter](https://twitter.com/) for learning from great people and interact with them. As you know, *everyone is just an @ away*. You can check me out Twitter, [@tulsiprasad22](https://twitter.com/tulsiprasad22), give a follow only if you like my content. Feel free to check out, who I follow and learn from in the platform.
 
 
-<a href="https://twitter.com/tulsiprasad22">
+<a href="https://twitter.com/heytulsiprasad">
   <img src="https://image.flaticon.com/icons/svg/1051/1051331.svg" alt="Twitter Profile" height="20" width="20">
 </a>
 
-<a href="https://dev.to/tulsi_prasad">
+<a href="https://dev.to/heytulsiprasad">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" style="margin-left: 5px" alt="DEV Profile" height="20" width="20">
 </a>
 
-<a href="https://github.com/tulsi-prasad">
+<a href="https://github.com/heytulsiprasad">
   <img src="https://image.flaticon.com/icons/svg/1051/1051326.svg" style="margin-left: 5px" alt="GitHub Profile" height="20" width="20">
 </a>
 
-<a href="https://www.linkedin.com/in/tulsi-prasad/">
+<a href="https://www.linkedin.com/in/heytulsiprasad/">
   <img src="https://image.flaticon.com/icons/svg/1051/1051333.svg" style="margin-left: 5px" alt="LinkedIn Profile" height="20" width="20">
 </a>
 
-<a href="https://www.instagram.com/_.star_._.gazer._/">
-  <img src="https://image.flaticon.com/icons/svg/1051/1051313.svg" style="margin-left: 5px" alt="Instagram Profile" height="20" width="20">
-</a>
 
 ## Thanks
 Special thanks to [DEV](https://dev.to/) and [FlatIcon]() for the amazing icons.
